@@ -32,7 +32,7 @@
 | :--- | :--- |
 | **Game Engine** | Unity 6 |
 | **Language** | C# |
-| **Art Style** | Pixel Art, Top-Down 2D |
+| **Art Style** | Pixel Art, Side-View Combat + Top-Down Dungeon |
 | **Combat** | Turn-Based |
 | **Testing** | Unity Test Framework (NUnit) |
 | **Export Targets** | Windows, macOS, Linux, WebGL |
@@ -143,13 +143,14 @@ dungeon-and-dungeon/
 
 ---
 
-## 👥 Team — 302Games
+## 👥 Team — Sullen Studio
 
 | Contributor | Role | GitHub |
 | :--- | :--- | :--- |
 | **Azamat** | Developer — Web & Game Engineer | [@azamxvit](https://github.com/azamxvit) |
-| **Nurzhigit** | Narrative Designer & Artist | [@thzsqeze](https://github.com/thzsqeze) |
+| **Nurzhigit** | Level Designer & Artist | [@thzsqeze](https://github.com/thzsqeze) |
 | **Mansur** | QA Engineer & Tester | [@QpErs1i](https://github.com/QpErs1i) |
+| **Bakdaulet** | Sound Designer | [@Klshbv](https://github.com/Klshbv) |
 
 ---
 
@@ -160,4 +161,4 @@ dungeon-and-dungeon/
 
 ---
 
-*Built with ❤️ and suffering by **302Games**. May your party survive at least two floors.*
+*Built with ❤️ and suffering by **Sullen Studio**. May your party survive at least two floors.*
