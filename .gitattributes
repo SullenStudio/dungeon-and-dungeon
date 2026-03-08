@@ -1,0 +1,25 @@
+# Unity файлы — merge как текст
+*.cs        text eol=lf
+*.md        text eol=lf
+*.json      text eol=lf
+*.yml       text eol=lf
+*.yaml      text eol=lf
+
+# Unity бинарники — не мержить, хранить как есть
+*.unity     merge=unityyamlmerge eol=lf
+*.prefab    merge=unityyamlmerge eol=lf
+*.asset     merge=unityyamlmerge eol=lf
+*.meta      merge=unityyamlmerge eol=lf
+*.mat       merge=unityyamlmerge eol=lf
+*.anim      merge=unityyamlmerge eol=lf
+*.controller merge=unityyamlmerge eol=lf
+
+# Картинки и звуки — бинарные
+*.png       binary
+*.jpg       binary
+*.psd       binary
+*.wav       binary
+*.mp3       binary
+*.ogg       binary
+*.ttf       binary
+*.otf       binary

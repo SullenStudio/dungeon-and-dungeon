@@ -9,4 +9,4 @@ UserSettings/
 *.user
 *.sln
 *.csproj
-.vs/
+*.vs/
