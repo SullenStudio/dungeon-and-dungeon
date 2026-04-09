@@ -1,3 +1,4 @@
+// Entity.cs
 using UnityEngine;
 
 public class Entity : MonoBehaviour
@@ -10,6 +11,7 @@ public class Entity : MonoBehaviour
 
     public virtual void Initialize(EntityData data)
     {
-        // буду заполнять по мере разработки
+        foreach (var stat in data.BaseStats)
+            stats.SetBaseStat(stat.Key, stat.Value);
     }
 }

@@ -1,3 +1,4 @@
+// HealthComponent.cs
 using System;
 using UnityEngine;
 
